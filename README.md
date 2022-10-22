@@ -4,6 +4,7 @@ A Simple program to write movie storyline and saves it in a txt document ...
 ## Usage
 * Just run the script.
 * Add a Title.
+* Add a location.
 * Enter character names seperated by comma.
 * Write dialogues for each character.
 * If dialogue is empty, it is replaced with `...`.
